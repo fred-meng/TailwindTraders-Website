@@ -104,7 +104,7 @@ class Header extends Component {
                             <Link className="main-nav__item" to="/list/gardening">
                                 {t('shared.header.gardening')}
                             </Link>
-                            <Link className="main-nav__item" to="/product/detail/20">
+                            <Link className="main-nav__item" to="/product/detail/25">
                                 {t('shared.header.decor')}
                             </Link>
 
