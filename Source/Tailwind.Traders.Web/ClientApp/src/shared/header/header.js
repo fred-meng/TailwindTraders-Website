@@ -98,21 +98,16 @@ class Header extends Component {
                             <Link className="main-nav__item" to="/list/sink">
                                 {t('shared.header.sink')}
                             </Link>
-                            <Link className="main-nav__item" to="/list/home">
+                            <Link className="main-nav__item" to="/product/detail/57">
                                 {t('shared.header.home')}
                             </Link>
                             <Link className="main-nav__item" to="/list/gardening">
                                 {t('shared.header.gardening')}
                             </Link>
-                            <Link className="main-nav__item" to="/list/decor">
+                            <Link className="main-nav__item" to="/product/detail/20">
                                 {t('shared.header.decor')}
                             </Link>
-                            <Link className="main-nav__item" to="/list/kitchen">
-                                {t('shared.header.kitchen')}
-                            </Link>
-                            <Link className="main-nav__item" to="/list/diytools">
-                                {t('shared.header.diytools')}
-                            </Link>
+
                             <div className="main-nav__actions">
                                 <Link className="main-nav__item" to="/profile">
                                     {t('shared.header.profile')}
